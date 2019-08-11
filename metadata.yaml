@@ -1,0 +1,38 @@
+_repo: Seventeen-Talks-on-the-Banking-Question-Between-Uncle-Sam-and-Mr-Farmer-Mr-Banker-Mr-Lawyer-M__60029
+_version: 0.0.1
+alternative_title: 17 Talks on the Banking Question
+creator:
+  author:
+    agent_name: Fowler, Charles N. (Charles Newell)
+    alias: Fowler, Charles Newell
+    birthdate: 1852
+    deathdate: 1932
+    gutenberg_agent_id: '50749'
+    url: http://www.gutenberg.org/2009/agents/50749
+    wikipedia: https://en.wikipedia.org/wiki/Charles_N._Fowler
+description: ''
+gutenberg_issued: '2019-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60029'
+  lccn: '13004176'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Currency question -- United States'
+- !lcsh 'Banks and banking -- United States'
+- !lcc 'HG'
+- GITenberg
+tableOfContents: The standard of value -- What is money? -- What is currency? -- Bank
+  credit currency -- What is exchange? -- Value, price, wealth, property, credit --
+  Commercial credit, land credit, government credit -- Colonial credit money -- United
+  States Notes or greenbacks -- Reserves -- The bank -- Land Credit Bank -- The Clearing
+  House -- Banking in 1860 -- Outline of bill -- Draft of bill -- Aldrich plan and
+  plot exposed.
+title: 'Seventeen Talks on the Banking Question
+
+  Between Uncle Sam and Mr. Farmer, Mr. Banker, Mr. Lawyer, Mr. Laboringman, Mr. Merchant,
+  Mr. Manufacturer'
+url: http://www.gutenberg.org/ebooks/60029
