@@ -1,6 +1,9 @@
 _repo: Seventeen-Talks-on-the-Banking-Question-Between-Uncle-Sam-and-Mr-Farmer-Mr-Banker-Mr-Lawyer-M__60029
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 17 Talks on the Banking Question
+covers:
+- cover_type: archival
+  image_path: 60029-h/images/cover.jpg
 creator:
   author:
     agent_name: Fowler, Charles N. (Charles Newell)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50749
     wikipedia: https://en.wikipedia.org/wiki/Charles_N._Fowler
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60029#Seventeen-Talks-on-the-Banking-Question-Between-Uncle-Sam-and-Mr-Farmer-Mr-Banker-Mr-Lawyer-M_
 gutenberg_issued: '2019-08-01'
 gutenberg_type: Text
 identifiers:
